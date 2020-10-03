@@ -2,7 +2,7 @@ package testDataTypes;
 
 import java.io.Serializable;
 
-public class Address implements Serializable {
+public class  Address implements Serializable {
 
 public String streetAddress;
 public String city;
